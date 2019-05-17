@@ -1,5 +1,5 @@
 This program creates an animated Fireworks display and was a project in the CSC171 course at the University of Rochester.
-Collaboraotrs: Bahawar Dhillon(Net ID: bdhillon), Darman Khan  (Net ID: dkhan2)
+Collaborators: Bahawar Dhillon(Net ID: bdhillon), Darman Khan  (Net ID: dkhan2)
 	   	   
 User's Guide: Enter an angle, speed and time delay for the firework and select a color and type from the dropdown menus. Click "launch" to launch the projectile. 
 	   
